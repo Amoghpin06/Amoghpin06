@@ -1,6 +1,6 @@
 Hi👋, I’m **Amoghpinglay**!
 
-Always open minded and ready to learn!! _
+Curious and ready to learn!! _
 
 My knowledge bank!✏️
  - Python Libraries
